@@ -27,6 +27,7 @@ The following results were shown through the analysis of mentorship eligibility:
 ## Summary
 
 The analysis shows that there are over 90,000 employees eligible for retirement and 1,549 employees eligible for mentorship. Some reasons why these two should be different is that retirement eligible emplyees were born between 1952 and 1955 which is 4 years and there is only a span of 1 year for employees to be eligible for the montorship program. Additionally, the retirement eligible chart includes employees who no longer work there, so a chart with only current employees is shown below.
+
 ![Image3](Analysis/retirement_current.PNG)
 
 This chart shows a total of 72,458 current employees which creates almost a 50:1 ratio of retirement eligible employees to mentorship eligible employees. Pewlett Hackard would need to plan on filling at least 20,000 roles a year for the next four years.
